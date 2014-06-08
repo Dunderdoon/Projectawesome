@@ -1,0 +1,79 @@
+.Main{
+	float:left;
+	margin-right: -90px;
+	margin-left: 100px;
+	border: 2px solid black;
+	height: 30px;
+	width: 200px;
+	vertical-align: middle;
+	font-family:"@Kozuka Mincho Pr6N L";
+	border-color: #ab42a2;
+	background-color: #ab42a2;
+	border-radius: 10px;
+	padding-left: 20px;
+
+}
+html{
+	background-color: #7a1271;
+}
+#subjects{
+	float: right;
+	margin: 150px 200px 0px 0px;
+	font-family:"@Kozuka Mincho Pr6N L";
+	font-size: 25px;
+	border:2px solid #ab42a2;
+	background-color: #ab42a2;
+	border-radius: 10px;
+	width: 100px
+
+}
+.subjectstext{
+	padding-left: 10px
+}
+#textarea{
+	border: 2px solid #ab42a2;
+	margin-left: 100px;
+	margin-top: 10px;
+	float: left;
+	width: 900px;
+	height: 900px;
+	background-color: #ab42a2;
+	border-color: #ab42a2;
+	border-radius: 10px;
+	font-family:"@Kozuka Mincho Pr6N L";
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+#textarea2{
+	border: 2px solid #ab42a2;
+	margin-left: 100px;
+	margin-top: 10px;
+	float: left;
+	width: 450px;
+	height: 900px;
+	background-color: #ab42a2;
+	border-color: #ab42a2;
+	border-radius: 10px;
+	font-family:"@Kozuka Mincho Pr6N L";
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+#whitespace{
+	border:2px solid white;
+	margin-top:10px;
+	margin-left:10px;
+	float:left;
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	border-color: white;
+	
+	font-family:"@Kozuka Mincho Pr6N L";
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 25px;
+
+
+}
